@@ -1,6 +1,6 @@
 # alunoalurastart
 Boas vindas ao meu perfil 💙💙
-Meu nome é Eduardo
+Meu nome é Carlos Eduardo
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
